@@ -1,6 +1,6 @@
 <div align="center">
 
-# Eduardo Lima
+# Eduardo Matheus
 **Mobile Developer | Flutter & Dart | 4+ anos XP**
 
 <br/>
