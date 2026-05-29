@@ -13,12 +13,9 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoM-GO&theme=radical&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=EduardoM-GO&show_icons=true&theme=radical&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoM-GO&layout=compact&theme=radical&hide_border=true&hide=java,html,css" height="165" />
+![](https://github-readme-stats.shion.dev/api?username=EduardoM-GO&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=EduardoM-GO&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=EduardoM-GO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/><br/>
 
